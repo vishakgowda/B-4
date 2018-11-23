@@ -1,0 +1,29 @@
+.first-section{
+    background-color: black;
+    color:white;
+    padding:5em;
+}
+
+.second-section{
+    margin-top:2em;
+    margin-bottom:2em;
+    padding:2em;
+}
+.section-three{
+    padding:5em;
+    background-color: aqua;
+}
+
+.first-one{
+    max-height:35rem;
+}
+h3{
+    padding-top:2rem;
+}
+h6{
+    padding-top: 2em;
+}
+
+
+
+

@@ -1,0 +1,22 @@
+.first-one{
+    max-height: 35rem;
+}
+.position{
+    position: absolute;
+    top:25rem;
+    left: 50px;
+    right: 50px;
+}
+.position h3{
+    color:green;
+}
+.lap h3{
+    color:green;
+    padding:2rem;
+}
+h6,h4,p {
+    padding:1rem; 
+}
+.speed{
+    background-color:#D3D3D3;
+}
