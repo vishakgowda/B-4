@@ -1,0 +1,28 @@
+.right {
+    border-right: 1px solid gray;
+}
+.font-radius
+{
+ background-color:#f6f6f6;
+ border-radius: 50%;
+ border: 1x solid grey;
+ padding:10px;
+}
+/* Login Page ,Register page & Reset Password page Styling starts */
+.highlight {
+    background-color:#3B5998;
+    
+}
+.login-button-width {
+    width:58%;}
+.register-button-width{
+    width:66%;
+}
+.form-control:focus {
+    box-shadow:none;
+ }
+ .btn:focus,.btn:active:focus,.btn.active:focus,
+.btn.focus,.btn:active.focus,.btn.active.focus {
+    box-shadow:none;
+}
+/* End of Login Page */
